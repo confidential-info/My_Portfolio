@@ -1,4 +1,6 @@
 import React from 'react';
+
+//CSS Import
 import "./MNav.css";
 
 function MNav({isOpen, toggleMenu}) 
