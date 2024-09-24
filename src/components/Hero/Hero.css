@@ -1,3 +1,10 @@
+.profile-image
+{
+    border: 1.5px solid #6852ba;
+    border-radius: 0.65rem;
+    padding: 10px;
+}
+
 .hero-container
 {
     display: flex;

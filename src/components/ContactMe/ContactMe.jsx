@@ -13,8 +13,12 @@ function ContactMe() {
         <h5>Contact Me</h5>
         <div className="contact-content">
             <div style={{flex: 1}}>
-              <ContactInfoCard iconUrl="../assets/mail.svg" text="cnikhil1000@gmail.com" />
-              <ContactInfoCard iconUrl="../assets/github.svg" text="https://github.com" />
+              <a href="#" className="contact-content-link">
+                <ContactInfoCard iconUrl="../assets/mail.svg" text="cnikhil1000@gmail.com" />
+              </a>
+              <a href="https://github.com/confidential-info" className="contact-content-link" target="_blank" rel="noopener noreferrer">
+                <ContactInfoCard iconUrl="../assets/github.svg" text="https://github.com/confidential-info" />
+              </a>
             </div>
             <div style={{flex: 1}}>
               <ContactForm />

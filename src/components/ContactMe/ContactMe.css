@@ -17,6 +17,12 @@
     gap: 3rem;
 }
 
+.contact-content-link
+{
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Responsive Settings */
 @media (max-width: 768px) 
 {

@@ -19,7 +19,7 @@ function Hero()
                     <path d="M12.215 13.773a1.792 1.792 0 1 0-1.786-1.8v.006a1.787 1.787 0 0 0 1.786 1.794Z"/>
                     </svg>
                 </div>
-                <img src="./assets/profile.jpg" alt="Image" width={550} /> 
+                <img src="./assets/profile picture.png" alt="Image" width={550} className="profile-image" /> 
             </div>
             <div>
                 <div className="tech-icon">

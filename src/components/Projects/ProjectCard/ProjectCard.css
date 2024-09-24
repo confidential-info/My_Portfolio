@@ -1,3 +1,9 @@
+.project-card-link
+{
+    text-decoration: none;
+    color: inherit;
+}
+
 .project-card
 {
     background-color: #130f2a;
