@@ -18,9 +18,9 @@
     margin: 0 auto;
 }
 
-.logo
+.logo > img
 {
-    width: 12rem;
+    width: 4rem;
     height: auto;
 }
 

@@ -18,7 +18,7 @@ function Navbar()
         <MNav isOpen={openMenu} toggleMenu={toggleMenu} />
         <nav className="nav-wrapper">
             <div className="nav-content">
-                <p className="logo">Portfolio</p>
+                <p className="logo"><img src="../LOGO.png" alt="Portfolio logo" /></p>
                 <ul>
                     <li><a className="menu-item">Home</a></li>
                     <li><a className="menu-item">Skills</a></li>
