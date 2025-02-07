@@ -39,7 +39,7 @@ function Projects()
         sliderRef.current.slickPrev();
     }; 
     return (
-        <section className="project-container">
+        <section className="project-container" id="project">
             <h5>Projects</h5>
             <div className="project-content">
                 <div className="arrow-right" onClick={sliderRigth}>

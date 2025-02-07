@@ -6,7 +6,7 @@ import "./Hero.css";
 function Hero() 
 {
   return (
-    <section className="hero-container">
+    <section className="hero-container" id="home">
         <div className="hero-content">
             <h2>Nikhil Choudhary</h2>
             <p>Passionate FrontEnd Developer | Software Developer | Aspiring FullStack Developer</p>

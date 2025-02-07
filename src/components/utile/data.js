@@ -44,20 +44,20 @@ export const PROJECTS = [
     {
         title: "Budget Tracker",
         description: [
-            " Developed an Budget Tracker web application that helped users cut their spending by 50% on average, as demonstrated by user surveys and data analysis.",
-            "Created a high-performance web app using a modern tech stack, including React, React Router, and Tailwind CSS, resulting in a 60% reduction in page load times compared to industry benchmarks.",
-            "Designed personalized dashboards with 10 customizable widgets for each user, enabling them to easily visualize spending patterns and make informed financial decisions and increase in user satisfaction.",
-            "Implemented a robust database system using Drizzle ORM and PostgreSQL to securely store budget data, ensuring a 50% uptime and protecting user privacy."
+            "Developed a Budget Tracker App  in React that 100+ users have found helpful in reducung spending, tracking savings, etc.",
+            "Created 25 intuitive components using React, Headless UI, imporoving user experience and reducing navigation time within the app.",
+            "Employed Drizzle ORM and PostgreSQL (Neon) to securely store and retrieve budget data for each user, ensuring data integrity and structure hence, reducing load time by 50%.",
+            "Implemented Clerk for authentication, enabling users to log in with Microsoft, Google, or Facebook accounts and access personalized dashboards, supporting up to 500 user accounts. "
         ],
         link: "https://github.com/confidential-info/Budget-Tracker.git",
     },
     {
         title: "Bank Management System",
         description: [
-            "Developed a robust C++ Bank Management System to streamline bank operations for both admins and users, increasing efficiency by 20%.",
-            "Implemented a user-friendly, menu-driven interface for easy access to account details and functionalities, reducing user errors by 60%. ",
-            "Built an Admin Module with features like account creation, deletion, and display, simplifying operations and reducing processing time by 40%. ",
-            "Designed a User Module empowering customers with essential banking services like transactions, account management, and secure PIN management, resulting in a 25% improvement in customer satisfaction."
+            "Developed a comprehensive Bank Management System in C++, offering 5+ menu options for both user and administrative functions.",
+            "Utilized object-oriented programming to create 2 distinct classses representing different bank entities, imporving code organization and maintainability.",
+            "Implemented a robust file management system that reduced data loading time by 20%",
+            "Integrated error handling mechanisms to prevent 10+ common errors and ensure reduction in system crashes."
         ],
         link: "https://github.com/confidential-info/Bank-Management-System.git",
     },

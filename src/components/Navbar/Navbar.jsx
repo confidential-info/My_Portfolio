@@ -20,10 +20,10 @@ function Navbar()
             <div className="nav-content">
                 <p className="logo"><img src="../LOGO.png" alt="Portfolio logo" /></p>
                 <ul>
-                    <li><a className="menu-item">Home</a></li>
-                    <li><a className="menu-item">Skills</a></li>
-                    <li><a className="menu-item">Projects</a></li>
-                    <li><a className="menu-item">Contact Me</a></li>
+                    <li><a href="#home" className="menu-item">Home</a></li>
+                    <li><a href="#skills" className="menu-item">Skills</a></li>
+                    <li><a href="#project" className="menu-item">Projects</a></li>
+                    <li><a href="#contact" className="menu-item">Contact Me</a></li>
                     <button className="contact-btn" onClick={() => {}}>Hire Me</button>
                 </ul>
                 <button class="menu-btn" onClick={toggleMenu}>
